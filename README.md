@@ -1,4 +1,6 @@
-# Dapp: Web3 game based on reactJS + truffle + ganache + metamask
+# Dapp Development
+A Web3 game based on reactJS + truffle + ganache + metamask
+
 FTE4312 Group project (member: 119010176; 119010068)
 
 
