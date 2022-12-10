@@ -1,0 +1,5 @@
+{
+    "name": "Fairy NFT",
+    "description": "Net=Ganache/Goerli IPFS=Infura",
+    "image": "ipfs://YOUR_HASH_HERE"
+}

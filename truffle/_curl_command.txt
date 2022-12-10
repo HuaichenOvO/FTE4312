@@ -1,0 +1,10 @@
+- upload the image to IPFS (will return file hash)
+    curl -X POST -F file=@yourfile -u "PROJECT_ID:PROJECT_SECRET" 
+    "https://ipfs.infura.io:5001/api/v0/add"
+
+- metadata to be in the following JSON format (will return file hash)
+    curl -X POST -F file=@yourjsonfile -u "PROJECT_ID:PROJECT_SECRET" 
+    "https://ipfs.infura.io:5001/api/v0/add"
+
+- URL to visit file uploaded
+    https://ipfs.io/ipfs/YOUR_HASH_HERE
