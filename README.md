@@ -1,5 +1,5 @@
 # Dapp Development
-A Web3 game based on reactJS + truffle + ganache + metamask
+A Web3 game based on reactJS + Truffle + ganache + MetaMask
 
 FTE4312 Group project (member: 119010176; 119010068)
 
